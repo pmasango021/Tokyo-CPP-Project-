@@ -8,6 +8,5 @@ int main() {
     // Give subway_child some values:
 
     std::vector<double> subway_child = {400, 600, 750};
-
-
+    std::cout << subway_child[2] << "\n";
 }
